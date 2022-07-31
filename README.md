@@ -10,6 +10,6 @@ dalam Mini Project ini, Kami melakukan Eksperimen dan Analisa dari KASUS 2, deng
 GENETIC ALGORITHM. akan tetapi Kita akan fokus pada Pemrogramannya menggunakan Python.
 
 ini Merupakan Tugas Akhir berupa Mini Project untuk Dosen dari Mata Kuliah Teknik Optimalisasi.
-Source Code Kami berikan bertujuan untuk dapat belajar bersama.
+Source Code ini Kami berikan bertujuan untuk dapat belajar bersama.
 
 Selamat Belajar
